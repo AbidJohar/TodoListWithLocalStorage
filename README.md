@@ -12,7 +12,7 @@ This is a simple and user-friendly Todo List application that allows you to add,
 
 ## Screenshot
 
-![Todo List App](./assets/todolist.jpg)
+![Todo List App](./src/assets/todolist.jpg)
 
 ## Installation
 
